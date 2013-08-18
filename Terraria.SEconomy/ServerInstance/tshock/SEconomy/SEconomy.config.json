@@ -1,0 +1,7 @@
+{
+  "BankAccountsEnabled": true,
+  "StartingMoney": "0",
+  "PayIntervalMinutes": 30,
+  "IdleThresholdMinutes": 10,
+  "IntervalPayAmount": "0"
+}

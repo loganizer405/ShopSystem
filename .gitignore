@@ -1,0 +1,15 @@
+#Visual studio crap
+*.suo
+*.sln
+*.pdb
+ShopSystem/bin/*.pdb
+
+#obj folder
+ShopSystem/obj/*.*
+ShopSystem/obj/Release/TempPE
+ShopSystem/obj/Debug/TempPE
+ShopSystem/obj/Release/*.*
+ShopSystem/obj/Debug/*.*
+
+#refs folder
+refs/*.*
