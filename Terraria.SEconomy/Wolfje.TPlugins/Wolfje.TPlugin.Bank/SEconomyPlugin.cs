@@ -16,7 +16,7 @@ namespace Wolfje.Plugins.SEconomy {
     /// <summary>
     /// Seconomy for Terraria and TShock.  Copyright (C) Tyler Watson, 2013.
     /// 
-    /// API Version 1.12
+    /// API Version 2.1
     /// </summary>
     [APIVersion(1, 12)]
     public class SEconomyPlugin : TerrariaPlugin {
